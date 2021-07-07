@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 //        first commit dev
 //        second commit dev
 //        squash 1 commit
+//        squash 2 commit
     }
 }
