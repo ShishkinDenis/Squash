@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 //        first commit dev
 //        second commit dev
+//        squash 1 commit
+//        squash 2 commit
     }
 }
